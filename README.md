@@ -4,7 +4,7 @@ Excel VBA macro that calculates expected COA based on student's enrollment, depe
 ## How to use
 1) Download the CoaCalculator.xlsm file.
 2) Open the file and enable macros.
-3) In the "view" tab and then click "macros" on the upper right. 
+3) Click on the "view" tab and then click "macros" on the upper right. 
 4) Select CoaCalculator and click "run".
 5) Enter the following information:
 
