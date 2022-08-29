@@ -20,7 +20,7 @@ Excel VBA macro that calculates expected COA based on student's enrollment, depe
 
     ![alt text](https://raw.githubusercontent.com/yerolaz/COACalculator/main/MacroGUI.PNG)
 
-## Additional notes
+## Usage
 The macro works by matching strings found in student information columns.
 - Dependency column must only include "D" or "I".
 - Housing column must only include "OFF_CAMPUS", "WITH_PARENT", or "ON_CAMPUS".
