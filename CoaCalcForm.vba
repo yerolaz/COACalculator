@@ -90,7 +90,7 @@ For counter = 1 To SemestersTb.Value        ' Counter 1 checks for selected seme
 
         ' Dependent, living on campus, in-state
         ElseIf Cells(curr_row, d).Value = "D" And _
-               Cells(curr_row, h).Value = "ON_COMPUS" And _
+               Cells(curr_row, h).Value = "ON_CAMPUS" And _
                Cells(curr_row, r) = "IN" Then
             type_std = "2"
 
@@ -102,7 +102,7 @@ For counter = 1 To SemestersTb.Value        ' Counter 1 checks for selected seme
 
         ' Independent, living on campus, in-state
         ElseIf Cells(curr_row, d).Value = "I" And _
-               Cells(curr_row, h).Value = "ON_COMPUS" And _
+               Cells(curr_row, h).Value = "ON_CAMPUS" And _
                Cells(curr_row, r) = "IN" Then
             type_std = "4"
 
@@ -112,7 +112,7 @@ For counter = 1 To SemestersTb.Value        ' Counter 1 checks for selected seme
             type_std = "5"
 
         ' Dependent/Independent, living on campus, Out-of-state
-        ElseIf Cells(curr_row, h).Value = "ON_COMPUS" And Cells(curr_row, r) = "OUT" Then
+        ElseIf Cells(curr_row, h).Value = "ON_CAMPUS" And Cells(curr_row, r) = "OUT" Then
             type_std = "6"
 
         ' If none of the above evaluate to true, set the cell to "False" and jump to the NoMatch label.
