@@ -1,5 +1,5 @@
 # COACalculator
-Excel VBA macro that calculates expected COA based on student's enrollment, dependency status, housing status, and residency status.
+Excel VBA macro that calculates expected cost of attendance based on student's enrollment, dependency status, housing status, and residency status.
 
 ## How to use
 1) Download the CoaCalculator.xlsm file.
