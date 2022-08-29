@@ -17,7 +17,7 @@ Excel VBA macro that calculates expected COA based on student's enrollment, depe
 
 6) Click Calculate.
 
-        
+
         ![alt text](https://raw.githubusercontent.com/yerolaz/COACalculator/main/MacroGUI.PNG)
 
 ## Additional notes
