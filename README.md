@@ -12,6 +12,7 @@ Excel VBA macro that calculates expected COA based on student's enrollment, depe
 - Column containing dependency info (B in the sample).
 - Column containing housing info (C in the sample).
 - Column containing residency info (D in the sample).
+- Column containing enrollment info (E in the sample).
 - Number of semesters to calculate (3 in the sample).
 
 ## Additional notes
