@@ -15,7 +15,7 @@ Excel VBA macro that calculates expected COA based on student's enrollment, depe
 - Column containing enrollment info (E in the sample).
 - Number of semesters to calculate (3 in the sample).
 
-![alt text](https://github.com/yerolaz/COACalculator/MacroGUI.PNG?raw=true)
+![alt text](https://raw.githubusercontent.com/yerolaz/COACalculator/main/MacroGUI.PNG)
 
 ## Additional notes
 The macro works by matching strings found in student information columns.
