@@ -6,5 +6,6 @@ Sub CoaCalculator()
 '
 
 CoaCalcForm.Show
+Range("A1").Select
 
 End Sub
